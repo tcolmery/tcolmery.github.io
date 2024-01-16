@@ -4,7 +4,7 @@ subtitle:
 # email: youremailaddress@gmail.com
 description: Teryn Colmery's personal website
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: www.teryncolmery.com # the base hostname & protocol for your site
+url: http://www.teryncolmery.com/ # the base hostname & protocol for your site
 author: Teryn Colmery
 # street_address: 1234 Somewhere Road
 # city: Nashville
