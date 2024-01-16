@@ -10,6 +10,14 @@
 /test/version_tmp/
 /tmp/
 
+# Jekyll, forty theme gitignore
+_site/
+.sass-cache/
+.jekyll-metadata
+Gemfile.lock
+*.gem
+.jekyll-cache
+
 # Used by dotenv library to load environment variables.
 # .env
 
